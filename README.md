@@ -1,2 +1,18 @@
-# Calculator-js
-A simple calculator made in javascript 
+# Calculator
+
+A simple JavaScript calculator
+
+## Features
+- Basic structure (HTML, CSS, JS)
+- Will allow adding, subtracting, multiplying, and dividing numbers
+- Simple and clean user interface
+
+## Planned Features
+- Clear button
+- Decimal support
+- Keyboard input
+- Responsive layout for desktop and mobile
+- Animations on button clicks
+
+
+
