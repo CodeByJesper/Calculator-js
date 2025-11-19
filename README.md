@@ -1,5 +1,5 @@
 # Calculator
-
+-- WORK IN PROGRESS --
 A simple JavaScript calculator
 
 ## Features
