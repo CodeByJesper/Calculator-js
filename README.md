@@ -8,7 +8,8 @@ A simple JavaScript calculator
 - Simple and clean user interface
 
 ## Planned Features
-- Clear button
+- Style Update
+- logic update
 - Decimal support
 - Keyboard input
 - Responsive layout for desktop and mobile
